@@ -1,0 +1,19 @@
+h1=. Čokolada
+
+h2. Sastojci
+
+|150 |g     |kako puter|
+|150 |g     |punomasni kakao prah|
+|3   |kašika|med|
+|30  |kapi  |stevia|
+|100 |g     |pečeni lešnik|
+|    |      |so|
+
+h2. Priprema
+
+Otopiti kakao puter, pomešati ga sa ostalim sastojcima.
+
+
+!cokolada.jpg!
+
+Source: https://www.youtube.com/watch?v=I2JSHeVdZnY
