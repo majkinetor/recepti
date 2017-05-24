@@ -1,0 +1,29 @@
+h1=. Gvakamole
+
+h2. Sastojci
+
+|2   |kom     |avokado|
+|100 |g       |feta sir|
+|4   |čen|beli luk|
+|1   |kom     |limun|
+|2   |kašika  |maslinovo ulje|
+|    |         |so, peršun, origano|
+
+h2. Priprema
+
+# Izguliti unutrašnji deo avokada kašičicom u činiju
+# Iscediti pola limuna
+# Presom za beli luk izgnječiti beli luk i dodati u činiju
+# Ubaciti sir, malsinoo ulje i začine po ukusu
+# Sve propasirati
+
+h2. Varijacija
+
+* 2 kašičice pesto sosa
+
+
+!gvakamole1!
+!gvakamole2!
+
+
+Source: _Tanja Jeremić_
