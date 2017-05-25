@@ -4,18 +4,20 @@ h2. Sastojci
 
 |2   |kom     |avokado|
 |100 |g       |feta sir|
-|4   |čen|beli luk|
+|100 |g       |zelene masline|
+|4   |čen     |beli luk|
 |1   |kom     |limun|
 |2   |kašika  |maslinovo ulje|
-|    |         |so, peršun, origano|
+|    |        |so, peršun, origano|
 
 h2. Priprema
 
 # Izguliti unutrašnji deo avokada kašičicom u činiju
 # Iscediti pola limuna
 # Presom za beli luk izgnječiti beli luk i dodati u činiju
-# Ubaciti sir, malsinoo ulje i začine po ukusu
+# Ubaciti sir, malsinovo ulje i začine po ukusu
 # Sve propasirati
+# Dodati sitno seckane zelene masline i promešati
 
 h2. Varijacija
 
