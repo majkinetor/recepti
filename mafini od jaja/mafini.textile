@@ -3,7 +3,7 @@ h1=. Mafini od jaja
 h2. Sastojci
 
 | 10  | kom      | jaja            |
-| 500 | g        | spanać          |
+| 250 | g        | spanać          |
 | 3   | tsp      | pesto sos       |
 | 150 | g        | kozji sir ili feta    |
 | 50  | g        | masline         |
@@ -13,11 +13,11 @@ Sastojci za 12 mafina.
 h2. Priprema
 
 U činiji razmutiti jaja i dodati pesto sos.
-U drugoj činiji pomešati sitno sečeni spanać kuvan jako kratko (ili preliven vrelom vodom), sitno seckane masline, izmrvljeni sir.
+U drugoj činiji pomešati sitno sečeni spanać kuvan jako kratko (ili preliven vrelom vodom, dobro isceđen), sitno seckane masline, izmrvljeni sir.
 
 U korpice rasporediti ovu smesu i preliti jajima.
 
-Peći u rerni na 200 stepeni 30 minuta. 
+Peći u rerni na 200 stepeni 40 minuta. 
 
 
 "Izvor":https://ketodietapp.com/Blog/post/2015/05/03/pesto-egg-muffins
