@@ -26,4 +26,6 @@ h2. Napomena
 _Source_: "Serious Eats":http://www.seriouseats.com/recipes/2017/05/savory-buckwheat-crepes-galettes-bretonnes-recipe.html ("diigo":https://www.diigo.com/user/majkinetor/b/399513299)
 
 
-!http://www.seriouseats.com/images/2017/05/20170502-buckwheat-crepes-vicky-wasik-filling-collage.jpg!
+!https://raw.githubusercontent.com/majkinetor/recepti/master/jaja%20u%20heljdinoj%20palacinci/20170502-buckwheat-crepes-vicky-wasik-filling-collage.jpg!
+!https://raw.githubusercontent.com/majkinetor/recepti/master/jaja%20u%20heljdinoj%20palacinci/20170502-buckwheat-crepes-vicky-wasik-15.jpg!
+!https://raw.githubusercontent.com/majkinetor/recepti/master/jaja%20u%20heljdinoj%20palacinci/20170502-buckwheat-crepes-vicky-wasik-24.jpg!
