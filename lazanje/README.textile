@@ -2,28 +2,28 @@ h1=. Lazanje
 
 h2. Sastojci
 
-Za punjenje
+h3. Fil sa mesom
 
-| 300 | g        | mleveno juneće meso       |
-| 300 | g        | kačkavalj                 |
-| 2   | kom      | veća šargarepa            |
-| 2   | kom      | crni luk                  |
-| 250 | ml       | paradaj pire              |
-| 200 | ml       | jogurt                    | 
-| 200 | g        | kačkavalj                 |
- 
-Za bešamel sos
+| 300 | g   | mleveno juneće meso |
+| 300 | g   | kačkavalj           |
+| 2   | kom | veća šargarepa      |
+| 2   | kom | crni luk            |
+| 250 | ml  | paradaj pire        |
+| 200 | ml  | jogurt              |
+| 200 | g   | kačkavalj           |
+|     |     | vegeta              |
 
-| 1   | l    | mleko |
-| 5   | tbsp | gustin|
-|     |      | ulje  |
+h3. Bešamel sos
+
+| 1 | l    | mleko  |
+| 5 | tbsp | gustin |
+|   |      | ulje   |
              
 
 h2. Priprema
 
-Vatra: 2. 
-Propržim crni luk seckan na kriške na malo ulja. 
-Onda dodam rendanu šargarepu. Kad to omekša doda se meso i prži se još 10ak minuta. U ovo se doda paradajz pire.
+Vatra 1/5, propržim crni luk seckan na kriške na malo ulja i dinsta se dok ne postane staklast, malo jače od pola snage ringle.
+Onda dodam rendanu šargarepu i pržim još 6,7m. Kad to omekša doda se meso i prži se još 10ak minuta. U ovo se doda paradajz pire, smanji se vatra na 1/4 i ostavi oko 30 minuta da se dinsta.
  
 Ređanje:
 
@@ -37,10 +37,14 @@ Ređanje:
 * Bešamel
 * Jogurt
 * Testo
+* Bešamel jogurt
 
 
-Na kraju dodati ostatak jogurta i izrendam kačkavalj i stavim preko.
+Na kraju dodati ostatak jogurta i izrendam kačkavalj i stavim preko. Pokrije se folijom na kraju
  
 Stavlja se u zagrejanu rernu, 200 stepeni, 30-40 minuta.
  
+Napomena:
+
+ - U bešamel može da se doda pavlaka ako fali 
  
