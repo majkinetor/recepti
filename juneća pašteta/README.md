@@ -1,5 +1,7 @@
 # Domaća pašteta
 
+|Količina|Mera|Sastojak|
+|---|---|---|
 | 300 | g   | živa slanina     |
 | 500 | g   | juneća džigerica |
 | 500 | g   | crni luk         |
