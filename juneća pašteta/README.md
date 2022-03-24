@@ -1,14 +1,14 @@
 # Domaća pašteta
 
-|Količina|Mera|Sastojak|
-|---|---|---|
-| 300 | g   | živa slanina     |
-| 500 | g   | juneća džigerica |
-| 500 | g   | crni luk         |
-| 1   | tsp | senf             |
-|     |     | biber            |
-|     |     | so               |
-|     |     | vegeta           |
+| Količina | Mera |     Sastojak     |
+| -------- | ---- | ---------------- |
+| 300      | g    | živa slanina     |
+| 500      | g    | juneća džigerica |
+| 500      | g    | crni luk         |
+| 1        | tsp  | senf             |
+|          |      | biber            |
+|          |      | so               |
+|          |      | vegeta           |
 
 
 1. Sitno iseckati slaninu na kockice i propržiti tako da ostanu čvarčići
