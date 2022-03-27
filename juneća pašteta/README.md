@@ -4,7 +4,7 @@
 | -------- | ---- | ---------------- |
 | 300      | g    | živa slanina     |
 | 500      | g    | juneća džigerica |
-| 500      | g    | crni luk         |
+| 500      | g    | crni luk         |R
 | 1        | tsp  | senf             |
 |          |      | biber            |
 |          |      | so               |
