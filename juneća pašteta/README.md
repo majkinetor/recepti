@@ -4,18 +4,18 @@
 | -------- | ---- | ---------------- |
 | 300      | g    | živa slanina     |
 | 500      | g    | juneća džigerica |
-| 500      | g    | crni luk         |R
+| 500      | g    | crni luk         |
 | 1        | tsp  | senf             |
-|          |      | biber            |
-|          |      | so               |
-|          |      | vegeta           |
+| 1        | tbsp | biber            |
+| 1        | tbsp | so               |
+| 1        | tbsp | vegeta           |
 
 
 1. Sitno iseckati slaninu na kockice i propržiti tako da ostanu čvarčići
 1. Dodati sitno seckani luk.
 1. Kada je luk pržen doda se džigerica
-1. Začiniti po želji
-1. Nakon što je sve gotovo obradi se super seckom
+1. Dodati začine
+1. Nakon što je sve gotovo, sačekati da se ohladi i obraditi seckom
 
 *Izvor*: Danica Milić
 
