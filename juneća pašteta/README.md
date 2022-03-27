@@ -18,3 +18,15 @@
 1. Nakon što je sve gotovo obradi se super seckom
 
 *Izvor*: Danica Milić
+
+---
+
+![](01-slanina.jpeg)
+![](02-slanina-kraj.jpeg)
+![](03-luk.jpeg)
+![](04-luk.jpeg)
+![](05-dzigerica.jpeg)
+![](06-dzigerica.jpeg)
+![](07-dzigerica.jpeg)
+![](08-zacini.jpeg)
+![](09-final.jpeg)
